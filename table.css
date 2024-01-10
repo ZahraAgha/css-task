@@ -1,0 +1,16 @@
+.table1{
+    width: 250px;
+    height: 250px;
+    border-collapse: collapse;
+    border:1px solid #bdc3c7
+
+}
+thead,th{
+    background-color:dodgerblue;
+    width: 232px;
+    height: 53px;
+}
+
+.row1,.row2{
+    background-color: lightblue;
+}
